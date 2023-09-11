@@ -1,0 +1,2 @@
+1.Jelaskan apa itu javascript?
+javaScript adalah bahasa sering digunakan untuk mengembangkan aplikasi web yang memberikan memberikan interaktivitas dan fungsi dinamis pada halaman web.
