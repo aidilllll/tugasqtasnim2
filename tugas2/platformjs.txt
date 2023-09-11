@@ -1,0 +1,2 @@
+2.Jelaskan bagaimana javascript itu bisa berjalan di berbagai platform!
+alasan mengapa javascript dapat berjalan di berbagai platform adalah karena javacript pada awalnya dikembangkan untuk digunakan di browser web karena itu hampir semua browser modern mendukung javacript dan juga karena javacript terus berkembang dan diperbarui dengan versi baru dan fitur fitur yang lebih kuat sehingga dapat terus mendukung berbagai platform
