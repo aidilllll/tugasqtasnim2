@@ -1,0 +1,16 @@
+1.Async/Await 
+  async/await adalah cara untuk mengelola tugas yang memakan waktu lama dalam program
+  async adalah cara untuk memberitahu komputer bahwa ada tugas yang memerlukan waktu 
+  kemudian await digunakan untuk menghentikan program sampai 
+  tugas tersebut selesai ini membuat kode menjadi lebih mudah dibaca
+
+2.Promise
+  sama seperti async/await promise adalah cara untuk menangani tugas yang mungkin memerlukan waktu 
+  seperti menunggu data dari internet tetapi dengan promise memungkinkan kita untuk melakukan tindakan
+  tertentu apabila tugas selesai atau gagal
+
+3.try catch
+  try catch adalah cara untuk mengatasi masalah atau kesalahan yang muncul dalam program
+  try adalah tempat di mana kita mungkin untuk mencoba sesuatu yang mungkin menimbulkan kesalahan atau eror, 
+  dan catch adalah tempat di mana kita dapat menangani kesalahan jika sesuatu yang tidak diharapkan seperti eror
+  terjadi
